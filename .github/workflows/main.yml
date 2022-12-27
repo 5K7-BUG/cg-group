@@ -6,7 +6,7 @@ env:
   # Directory within the Cloud Manager Git repository
   PROJECT_DIR: project-a
   # Cloud Manager's Git repository
-  MAIN_REPOSITORY: https://x-token-auth:IlFkVA7Bis5fSTGJdr7c@bitbucket.org/chavhak1/cg-group.git
+  MAIN_REPOSITORY:  https://x-token-auth:GNaexMFNaOH0a4nihzrc@bitbucket.org/chavhak1/cg-group.git
   # The branch in Cloud Manager's Git repository to push to
   MAIN_BRANCH : main
 
